@@ -1,0 +1,817 @@
+States that start with fluoxetine
+['fluoxetine', 'lorazepam', 'aripiprazole'] 1
+['fluoxetine', 'aripiprazole'] 8
+['fluoxetine', 'aripiprazole', 'clonazepam'] 1
+['fluoxetine'] 752
+['fluoxetine', 'lamotrigine', 'aripiprazole', 'zolmitriptan'] 1
+['fluoxetine', 'cipralex'] 10
+['fluoxetine', 'escitalopram'] 53
+['fluoxetine', 'escitalopram', 'testosterone'] 1
+['fluoxetine', 'venlafaxine', 'escitalopram', 'duloxetine'] 1
+['fluoxetine', 'cipralex', 'mirtazapine'] 1
+['fluoxetine', 'escitalopram', 'duloxetine'] 7
+['fluoxetine', 'needle'] 1
+['fluoxetine', 'lorazepam', 'escitalopram', 'zolmitriptan'] 1
+['fluoxetine', 'escitalopram', 'risperidone'] 2
+['fluoxetine', 'risperidone', 'cipralex', 'paliperidone'] 2
+['fluoxetine', 'escitalopram', 'clonazepam'] 3
+['fluoxetine', 'escitalopram', 'clonazepam', 'mirtazapine'] 1
+['fluoxetine', 'duloxetine'] 42
+['fluoxetine', 'escitalopram', 'lorazepam'] 1
+['fluoxetine', 'ammonia'] 1
+['fluoxetine', 'cipralex', 'duloxetine'] 2
+['fluoxetine', 'escitalopram', 'olanzapine', 'duloxetine'] 1
+['fluoxetine', 'venlafaxine', 'duloxetine'] 4
+['fluoxetine', 'methylprednisolone', 'duloxetine'] 1
+['fluoxetine', 'clonazepam', 'duloxetine'] 1
+['fluoxetine', 'lorazepam', 'venlafaxine', 'imipramine', 'duloxetine'] 1
+['fluoxetine', 'venlafaxine', 'clonazepam', 'olanzapine'] 1
+['fluoxetine', 'venlafaxine'] 70
+['fluoxetine', 'venlafaxine', 'dihydrocodeine', 'tramadol'] 1
+['fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['fluoxetine', 'venlafaxine', 'lorazepam', 'escitalopram'] 1
+['fluoxetine', 'lamotrigine', 'venlafaxine', 'zolmitriptan'] 1
+['fluoxetine', 'desvenlafaxine', 'venlafaxine', 'clonazepam'] 1
+['fluoxetine', 'venlafaxine', 'omega-3-acid'] 1
+['fluoxetine', 'venlafaxine', 'escitalopram'] 2
+['fluoxetine', 'venlafaxine', 'mirtazapine'] 5
+['fluoxetine', 'venlafaxine', 'escitalopram', 'mirtazapine', 'duloxetine'] 1
+['fluoxetine', 'desvenlafaxine'] 5
+['fluoxetine', 'venlafaxine', 'cipralex'] 1
+['fluoxetine', 'olanzapine'] 11
+['fluoxetine', 'clonazepam'] 12
+['fluoxetine', 'venlafaxine', 'mirtazapine', 'duloxetine'] 2
+['fluoxetine', 'zostavax'] 1
+['fluoxetine', 'escitalopram', 'mirtazapine', 'duloxetine'] 1
+['fluoxetine', 'zolmitriptan'] 10
+['fluoxetine', 'amitriptyline', 'eszopiclone'] 1
+['fluoxetine', 'escitalopram', 'selegiline'] 1
+['fluoxetine', 'escitalopram', 'olanzapine'] 1
+['fluoxetine', 'amitriptyline'] 6
+['fluoxetine', 'escitalopram', 'mirtazapine'] 1
+['fluoxetine', 'nitro'] 1
+['fluoxetine', 'clonazepam', 'mirtazapine'] 1
+['fluoxetine', 'clomipramine'] 5
+['fluoxetine', 'nortriptyline'] 3
+['fluoxetine', 'lamotrigine'] 1
+['fluoxetine', 'fluvoxamine'] 6
+['fluoxetine', 'olanzapine', 'paliperidone', 'clonazepam'] 1
+['fluoxetine', 'escitalopram', 'nortriptyline'] 1
+['fluoxetine', 'lorazepam', 'fluvoxamine', 'pregabalin'] 1
+['fluoxetine', 'mirtazapine'] 20
+['fluoxetine', 'clonazepam', 'eszopiclone'] 1
+['fluoxetine', 'escitalopram', 'amitriptyline'] 1
+['fluoxetine', 'fluvoxamine', 'clonazepam', 'eszopiclone'] 1
+['fluoxetine', 'methylprednisolone', 'olanzapine'] 1
+['fluoxetine', 'diazepam'] 3
+['fluoxetine', 'risperidone', 'divalproex'] 1
+['fluoxetine', 'risperidone', 'ziprasidone', 'olanzapine', 'aripiprazole'] 1
+['fluoxetine', 'risperidone', 'olanzapine'] 1
+['fluoxetine', 'ziprasidone', 'olanzapine', 'aripiprazole'] 1
+['fluoxetine', 'ziprasidone', 'olanzapine', 'topiramate'] 1
+['fluoxetine', 'loxapine'] 1
+['fluoxetine', 'clonazepam', 'testosterone'] 1
+['fluoxetine', 'carbamazepine', 'haloperidol'] 1
+['fluoxetine', 'lamotrigine', 'clonazepam'] 1
+['fluoxetine', 'escitalopram', 'zolmitriptan'] 3
+['fluoxetine', 'venlafaxine', 'lorazepam'] 2
+['fluoxetine', 'venlafaxine', 'escitalopram', 'mirtazapine'] 1
+['fluoxetine', 'azithromycin'] 1
+['fluoxetine', 'prenatal'] 1
+['fluoxetine', 'diazepam', 'mirtazapine'] 2
+['fluoxetine', 'venlafaxine', 'lorazepam', 'duloxetine'] 1
+['fluoxetine', 'metabolic'] 2
+['fluoxetine', 'risperidone', 'clonazepam'] 1
+['fluoxetine', 'venlafaxine', 'clonazepam', 'mirtazapine'] 1
+['fluoxetine', 'escitalopram', 'venlafaxine', 'duloxetine'] 1
+['fluoxetine', 'tumor'] 1
+['fluoxetine', 'topiramate'] 1
+['fluoxetine', 'lorazepam'] 9
+['fluoxetine', 'bromocriptine'] 1
+['fluoxetine', 'progesterone'] 1
+['fluoxetine', 'isocarboxazid'] 1
+['fluoxetine', 'cyclobenzaprine'] 1
+['fluoxetine', 'venlafaxine', 'amitriptyline'] 1
+['fluoxetine', 'codeine'] 1
+['fluoxetine', 'lorazepam', 'cyclobenzaprine'] 1
+['fluoxetine', 'progesterone', 'zolmitriptan'] 1
+['fluoxetine', 'zinc', 'mirtazapine'] 1
+['fluoxetine', 'risperidone'] 3
+['fluoxetine', 'dalteparin'] 1
+['fluoxetine', 'escitalopram', 'lamotrigine'] 1
+['fluoxetine', 'ibuprofen'] 2
+['fluoxetine', 'testosterone'] 3
+['fluoxetine', 'venlafaxine', 'zostavax'] 1
+['fluoxetine', 'methylprednisolone', 'hydrocortisone'] 1
+['fluoxetine', 'methylphenidate', 'escitalopram'] 1
+['fluoxetine', 'venlafaxine', 'cipralex', 'duloxetine'] 2
+['fluoxetine', 'prudoxin'] 1
+['fluoxetine', 'fluvoxamine', 'sodium'] 1
+['fluoxetine', 'augmented'] 1
+['fluoxetine', 'methylphenidate'] 2
+['fluoxetine', 'lorazepam', 'zolmitriptan'] 2
+['fluoxetine', 'aripiprazole', 'duloxetine'] 1
+['fluoxetine', 'tolterodine'] 1
+['fluoxetine', 'sodium'] 1
+['fluoxetine', 'fluvoxamine', 'eszopiclone'] 1
+['fluoxetine', 'olanzapine', 'mirtazapine'] 2
+['fluoxetine', 'tramadol'] 1
+['fluoxetine', 'escitalopram', 'cipramil', 'duloxetine'] 1
+['fluoxetine', 'lorazepam', 'amitriptyline'] 1
+['fluoxetine', 'lamotrigine', 'aripiprazole'] 1
+['fluoxetine', 'mirtazapine', 'zolmitriptan'] 3
+['fluoxetine', 'fluvoxamine', 'mirtazapine'] 1
+['fluoxetine', 'mirtazapine', 'augmented'] 1
+['fluoxetine', 'mirtazapine', 'duloxetine'] 1
+['fluoxetine', 'venlafaxine', 'cipramil', 'mirtazapine'] 1
+['fluoxetine', 'lorazepam', 'mirtazapine', 'duloxetine'] 1
+['fluoxetine', 'lorazepam', 'escitalopram', 'mirtazapine'] 1
+
+
+States that contain fluoxetine
+['wellbutrin', 'fluoxetine'] 127
+['fluvoxamine', 'aripiprazole', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['fluoxetine', 'lorazepam', 'aripiprazole'] 1
+['fluoxetine', 'aripiprazole'] 8
+['trazodone', 'fluoxetine', 'methylphenidate', 'aripiprazole'] 1
+['wellbutrin', 'aripiprazole', 'citalopram', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['quetiapine', 'lamotrigine', 'fluoxetine', 'aripiprazole'] 1
+['fluoxetine', 'aripiprazole', 'clonazepam'] 1
+['gabapentin', 'fluoxetine', 'aripiprazole', 'clonazepam'] 1
+['trazodone', 'fluoxetine', 'aripiprazole'] 1
+['quetiapine', 'fluoxetine', 'depakene', 'aripiprazole', 'eszopiclone'] 1
+['fluoxetine'] 752
+['fluoxetine', 'lamotrigine', 'aripiprazole', 'zolmitriptan'] 1
+['trazodone', 'fluoxetine', 'escitalopram'] 1
+['alprazolam', 'fluoxetine', 'escitalopram', 'lisdexamfetamine'] 1
+['citalopram', 'fluoxetine'] 95
+['fluoxetine', 'cipralex'] 10
+['wellbutrin', 'nefazodone', 'lorazepam', 'mirtazapine', 'citalopram', 'fluoxetine', 'escitalopram'] 1
+['fluoxetine', 'escitalopram'] 53
+['eszopiclone', 'lorazepam', 'citalopram', 'trazodone', 'fluoxetine', 'desvenlafaxine'] 1
+['quetiapine', 'fluoxetine', 'escitalopram', 'clonazepam'] 2
+['lorazepam', 'fluoxetine', 'escitalopram', 'pregabalin', 'oxcarbazepine', 'cipralex'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'mirtazapine'] 1
+['wellbutrin', 'fluoxetine', 'escitalopram'] 23
+['fluoxetine', 'escitalopram', 'testosterone'] 1
+['citalopram', 'fluoxetine', 'lorazepam'] 1
+['citalopram', 'sertraline', 'fluoxetine'] 15
+['fluoxetine', 'venlafaxine', 'escitalopram', 'duloxetine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'lorazepam'] 3
+['citalopram', 'sertraline', 'fluoxetine', 'alprazolam'] 2
+['duloxetine', 'mirtazapine', 'citalopram', 'fluoxetine', 'paroxetine', 'venlafaxine'] 1
+['lamotrigine', 'wellbutrin', 'quetiapine', 'alprazolam', 'trazodone', 'fluoxetine', 'escitalopram', 'risperidone', 'citalopram', 'venlafaxine', 'clonazepam'] 1
+['citalopram', 'fluoxetine', 'escitalopram'] 10
+['citalopram', 'fluoxetine', 'venlafaxine'] 10
+['fluoxetine', 'cipralex', 'mirtazapine'] 1
+['citalopram', 'fluoxetine', 'escitalopram', 'duloxetine'] 2
+['fluoxetine', 'escitalopram', 'duloxetine'] 7
+['citalopram', 'paroxetine', 'fluoxetine'] 2
+['fluoxetine', 'needle'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'alprazolam'] 2
+['trazodone', 'fluoxetine', 'venlafaxine', 'escitalopram', 'mirtazapine'] 1
+['wellbutrin', 'citalopram', 'fluoxetine', 'escitalopram'] 1
+['fluoxetine', 'lorazepam', 'escitalopram', 'zolmitriptan'] 1
+['sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 3
+['citalopram', 'sertraline', 'fluoxetine', 'escitalopram'] 8
+['sertraline', 'fluoxetine', 'venlafaxine', 'duloxetine'] 3
+['wellbutrin', 'tadalafil', 'fluoxetine', 'venlafaxine', 'escitalopram'] 1
+['citalopram', 'fluoxetine', 'clonazepam'] 4
+['citalopram', 'fluoxetine', 'escitalopram', 'mirtazapine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram'] 4
+['citalopram', 'sertraline', 'fluoxetine', 'venlafaxine', 'wellbutrin'] 1
+['sertraline', 'fluoxetine', 'venlafaxine', 'escitalopram'] 4
+['lamotrigine', 'lorazepam', 'aripiprazole', 'buspirone', 'alprazolam', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine', 'clonazepam'] 1
+['asa', 'fluoxetine', 'cipralex'] 1
+['citalopram', 'fluoxetine', 'mirtazapine'] 5
+['wellbutrin', 'desvenlafaxine', 'escitalopram', 'fluoxetine', 'clonazepam'] 1
+['fluoxetine', 'escitalopram', 'risperidone'] 2
+['citalopram', 'trazodone', 'fluoxetine'] 4
+['sertraline', 'fluoxetine'] 100
+['citalopram', 'fluoxetine', 'venlafaxine', 'mirtazapine', 'cipramil'] 1
+['citalopram', 'fluoxetine', 'escitalopram', 'cipralex'] 1
+['sertraline', 'fluoxetine', 'escitalopram'] 17
+['wellbutrin', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 3
+['alprazolam', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'cipralex'] 1
+['wellbutrin', 'quetiapine', 'citalopram', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'duloxetine'] 2
+['thyroid', 'wellbutrin', 'mirtazapine', 'sertraline', 'fluoxetine', 'micafungin', 'venlafaxine', 'cipralex'] 1
+['alprazolam', 'sertraline', 'fluoxetine', 'venlafaxine', 'escitalopram'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'citalopram'] 2
+['ciprofloxacin', 'citalopram', 'fluoxetine', 'escitalopram', 'clomipramine', 'olanzapine'] 1
+['fluoxetine', 'risperidone', 'cipralex', 'paliperidone'] 2
+['citalopram', 'wellbutrin', 'fluoxetine'] 7
+['wellbutrin', 'sertraline', 'desvenlafaxine', 'escitalopram', 'fluoxetine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'venlafaxine'] 6
+['fluoxetine', 'escitalopram', 'clonazepam'] 3
+['citalopram', 'fluoxetine', 'escitalopram', 'fluvoxamine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'trazodone'] 2
+['citalopram', 'sertraline', 'fluoxetine', 'wellbutrin'] 4
+['citalopram', 'wellbutrin', 'fluoxetine', 'metyrosine'] 1
+['fluoxetine', 'escitalopram', 'clonazepam', 'mirtazapine'] 1
+['citalopram', 'fluoxetine', 'escitalopram', 'lorazepam'] 1
+['alprazolam', 'trazodone', 'fluoxetine', 'escitalopram'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'clonazepam'] 1
+['wellbutrin', 'fluoxetine', 'cipralex'] 3
+['fluoxetine', 'duloxetine'] 42
+['wellbutrin', 'citalopram', 'desvenlafaxine', 'venlafaxine', 'fluoxetine'] 1
+['duloxetine', 'wellbutrin', 'quetiapine', 'lorazepam', 'aripiprazole', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'haloperidol', 'desvenlafaxine', 'clomipramine', 'olanzapine', 'cipralex'] 1
+['wellbutrin', 'aripiprazole', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['citalopram', 'eskalith', 'fluoxetine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['fluoxetine', 'escitalopram', 'lorazepam'] 1
+['wellbutrin', 'citalopram', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['alprazolam', 'fluoxetine', 'cipralex', 'olanzapine'] 1
+['duloxetine', 'prednisolone', 'fluoxetine', 'pregabalin', 'eskalith', 'venlafaxine', 'olanzapine'] 2
+['wellbutrin', 'fluoxetine', 'duloxetine'] 12
+['sertraline', 'fluoxetine', 'venlafaxine', 'quetiapine', 'duloxetine'] 1
+['lamotrigine', 'duloxetine', 'citalopram', 'fluoxetine', 'oxcarbazepine', 'clonazepam'] 1
+['fluoxetine', 'ammonia'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'clonazepam', 'duloxetine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'venlafaxine', 'duloxetine'] 2
+['fluoxetine', 'cipralex', 'duloxetine'] 2
+['oxycodone', 'sertraline', 'fluoxetine', 'duloxetine'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'duloxetine'] 5
+['fluoxetine', 'escitalopram', 'olanzapine', 'duloxetine'] 1
+['duloxetine', 'wellbutrin', 'mirtazapine', 'zolmitriptan', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['duloxetine', 'wellbutrin', 'nefazodone', 'mirtazapine', 'sertraline', 'fluoxetine'] 1
+['zolmitriptan', 'fluoxetine', 'duloxetine'] 1
+['duloxetine', 'wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'topiramate', 'venlafaxine'] 1
+['citalopram', 'fluoxetine', 'escitalopram', 'mirtazapine', 'duloxetine'] 1
+['duloxetine', 'lorazepam', 'zolmitriptan', 'aspirin', 'fluoxetine', 'venlafaxine'] 1
+['wellbutrin', 'fluoxetine', 'desvenlafaxine', 'duloxetine'] 3
+['wellbutrin', 'fluoxetine', 'lorazepam', 'olanzapine', 'duloxetine'] 1
+['citalopram', 'fluoxetine', 'duloxetine'] 3
+['wellbutrin', 'citalopram', 'fluoxetine', 'escitalopram', 'duloxetine'] 2
+['duloxetine', 'wellbutrin', 'lorazepam', 'fluvoxamine', 'fluoxetine', 'clonazepam'] 1
+['wellbutrin', 'gabapentin', 'fluoxetine', 'duloxetine'] 1
+['eskalith', 'fluoxetine', 'duloxetine'] 1
+['duloxetine', 'wellbutrin', 'fluvoxamine', 'aripiprazole', 'citalopram', 'sertraline', 'fluoxetine', 'alprazolam'] 1
+['fluoxetine', 'venlafaxine', 'duloxetine'] 4
+['sertraline', 'fluoxetine', 'venlafaxine', 'escitalopram', 'duloxetine'] 1
+['sertraline', 'fluoxetine', 'asa', 'duloxetine'] 1
+['fluoxetine', 'methylprednisolone', 'duloxetine'] 1
+['duloxetine', 'wellbutrin', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'venlafaxine'] 1
+['asa', 'sertraline', 'fluoxetine', 'venlafaxine', 'duloxetine'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'escitalopram', 'duloxetine'] 2
+['sertraline', 'fluoxetine', 'duloxetine'] 2
+['gabapentin', 'fluoxetine', 'tramadol', 'duloxetine'] 1
+['fluoxetine', 'clonazepam', 'duloxetine'] 1
+['propranolol', 'duloxetine', 'wellbutrin', 'quetiapine', 'sertraline', 'risperidone', 'fluoxetine', 'eskalith', 'venlafaxine'] 1
+['citalopram', 'fluoxetine', 'mirtazapine', 'duloxetine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'mirtazapine', 'duloxetine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'atomoxetine', 'duloxetine'] 1
+['citalopram', 'zolpidem', 'fluoxetine', 'venlafaxine', 'duloxetine'] 1
+['propranolol', 'fluoxetine', 'lorazepam', 'duloxetine'] 1
+['duloxetine', 'alprazolam', 'sertraline', 'fluoxetine', 'citalopram', 'escitalopram'] 1
+['wellbutrin', 'fluoxetine', 'desvenlafaxine', 'escitalopram', 'duloxetine'] 1
+['fluoxetine', 'lorazepam', 'venlafaxine', 'imipramine', 'duloxetine'] 1
+['diazepam', 'duloxetine', 'lorazepam', 'alprazolam', 'fluoxetine', 'clonazepam'] 1
+['duloxetine', 'wellbutrin', 'fluvoxamine', 'aripiprazole', 'citalopram', 'sertraline', 'fluoxetine'] 1
+['desvenlafaxine', 'fluoxetine'] 8
+['fluoxetine', 'venlafaxine', 'clonazepam', 'olanzapine'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine'] 14
+['fluoxetine', 'venlafaxine'] 70
+['wellbutrin', 'fluoxetine', 'escitalopram', 'venlafaxine', 'desvenlafaxine'] 1
+['duloxetine', 'wellbutrin', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'venlafaxine', 'metabolic'] 1
+['sertraline', 'desvenlafaxine', 'venlafaxine', 'fluoxetine', 'atomoxetine'] 1
+['sertraline', 'fluoxetine', 'venlafaxine', 'clonazepam'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'clonazepam'] 1
+['sertraline', 'fluoxetine', 'lorazepam', 'escitalopram', 'venlafaxine'] 1
+['fluoxetine', 'venlafaxine', 'dihydrocodeine', 'tramadol'] 1
+['fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['citalopram', 'alprazolam', 'fluoxetine', 'venlafaxine'] 1
+['sertraline', 'fluoxetine', 'venlafaxine'] 10
+['wellbutrin', 'fluoxetine', 'desvenlafaxine'] 1
+['gabapentin', 'fluoxetine', 'venlafaxine'] 1
+['fluoxetine', 'venlafaxine', 'lorazepam', 'escitalopram'] 1
+['fluoxetine', 'lamotrigine', 'venlafaxine', 'zolmitriptan'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'venlafaxine', 'escitalopram'] 2
+['fluoxetine', 'desvenlafaxine', 'venlafaxine', 'clonazepam'] 1
+['wellbutrin', 'quetiapine', 'alprazolam', 'fluoxetine', 'escitalopram', 'oxcarbazepine', 'desvenlafaxine', 'venlafaxine', 'olanzapine', 'clonazepam'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'mirtazapine'] 1
+['fluoxetine', 'venlafaxine', 'omega-3-acid'] 1
+['ramelteon', 'mirtazapine', 'zolmitriptan', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'trazodone', 'desvenlafaxine', 'venlafaxine'] 1
+['lamotrigine', 'duloxetine', 'citalopram', 'fluoxetine', 'escitalopram', 'venlafaxine', 'ammonia'] 1
+['quetiapine', 'lorazepam', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'venlafaxine'] 1
+['quetiapine', 'fluoxetine', 'venlafaxine', 'escitalopram', 'olanzapine'] 1
+['alprazolam', 'wellbutrin', 'fluoxetine', 'venlafaxine', 'zolmitriptan'] 1
+['citalopram', 'fluoxetine', 'venlafaxine', 'duloxetine'] 1
+['eskalith', 'citalopram', 'fluoxetine', 'venlafaxine'] 1
+['citalopram', 'codeine', 'venlafaxine', 'fluoxetine', 'amitriptyline'] 1
+['fluoxetine', 'venlafaxine', 'escitalopram'] 2
+['alprazolam', 'quetiapine', 'fluoxetine', 'venlafaxine'] 1
+['wellbutrin', 'alprazolam', 'fluoxetine', 'desvenlafaxine', 'venlafaxine', 'metabolic'] 1
+['wellbutrin', 'sertraline', 'desvenlafaxine', 'fluoxetine', 'venlafaxine'] 1
+['fluoxetine', 'venlafaxine', 'mirtazapine'] 5
+['wellbutrin', 'citalopram', 'sertraline', 'fluoxetine', 'topiramate', 'venlafaxine', 'cipralex', 'levothyroxine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'venlafaxine', 'escitalopram'] 1
+['eskalith', 'wellbutrin', 'desvenlafaxine', 'fluoxetine', 'duloxetine'] 1
+['citalopram', 'fluoxetine', 'venlafaxine', 'zolmitriptan'] 1
+['wellbutrin', 'lorazepam', 'zolmitriptan', 'alprazolam', 'trazodone', 'fluoxetine', 'venlafaxine'] 1
+['fluoxetine', 'venlafaxine', 'escitalopram', 'mirtazapine', 'duloxetine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'venlafaxine'] 2
+['prudoxin', 'fluoxetine', 'venlafaxine'] 1
+['sertraline', 'desvenlafaxine', 'fluoxetine'] 2
+['lamotrigine', 'lorazepam', 'citalopram', 'sertraline', 'fluoxetine', 'venlafaxine'] 2
+['fluoxetine', 'desvenlafaxine'] 5
+['zolmitriptan', 'sertraline', 'fluoxetine', 'lisdexamfetamine', 'desvenlafaxine', 'clonazepam'] 1
+['quetiapine', 'methylprednisolone', 'fluvoxamine', 'mirtazapine', 'citalopram', 'sertraline', 'trazodone', 'escitalopram', 'fluoxetine', 'desvenlafaxine', 'venlafaxine'] 1
+['thyroid', 'fluoxetine', 'venlafaxine', 'desvenlafaxine'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'nortriptyline', 'levothyroxine'] 1
+['thyroid', 'fluoxetine', 'venlafaxine', 'eszopiclone'] 1
+['trazodone', 'fluoxetine', 'venlafaxine', 'cipralex', 'mirtazapine'] 1
+['fluoxetine', 'venlafaxine', 'cipralex'] 1
+['desvenlafaxine', 'venlafaxine', 'fluoxetine', 'duloxetine'] 1
+['alprazolam', 'fluoxetine', 'venlafaxine'] 2
+['citalopram', 'desvenlafaxine', 'fluoxetine'] 1
+['citalopram', 'fluoxetine', 'lorazepam', 'clonazepam'] 1
+['thyroid', 'lamotrigine', 'wellbutrin', 'aripiprazole', 'citalopram', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'clonazepam'] 1
+['depakene', 'fluoxetine', 'fluvoxamine', 'depakote', 'aripiprazole'] 1
+['fluoxetine', 'olanzapine'] 11
+['wellbutrin', 'fluoxetine', 'selegiline'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'levomilnacipran', 'lorazepam'] 1
+['quetiapine', 'fluoxetine', 'lorazepam'] 1
+['alprazolam', 'fluoxetine', 'lorazepam'] 3
+['wellbutrin', 'quetiapine', 'lorazepam', 'depakote', 'fluoxetine', 'eskalith', 'venlafaxine', 'clomipramine'] 1
+['fluoxetine', 'clonazepam'] 12
+['fluoxetine', 'venlafaxine', 'mirtazapine', 'duloxetine'] 2
+['thyroid', 'wellbutrin', 'aripiprazole', 'fluoxetine', 'atomoxetine', 'eskalith', 'venlafaxine'] 1
+['lamotrigine', 'levetiracetam', 'aripiprazole', 'depakote', 'fluoxetine', 'topiramate', 'clonazepam'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'methylphenidate', 'sertraline', 'lisdexamfetamine', 'escitalopram', 'fluoxetine', 'atomoxetine', 'eskalith', 'venlafaxine'] 1
+['sertraline', 'fluoxetine', 'mirtazapine'] 6
+['fluoxetine', 'zostavax'] 1
+['sertraline', 'fluoxetine', 'venlafaxine', 'cipramil'] 1
+['propranolol', 'fluoxetine', 'clonazepam', 'eszopiclone'] 1
+['wellbutrin', 'fluoxetine', 'cipralex', 'mirtazapine'] 1
+['mirtazapine', 'sertraline', 'phenelzine', 'desipramine', 'fluvoxamine', 'citalopram', 'trazodone', 'fluoxetine', 'neocate', 'paroxetine', 'clomipramine', 'isocarboxazid', 'tranylcypromine', 'prudoxin', 'venlafaxine', 'nortriptyline', 'imipramine', 'nefazodone', 'amitriptyline', 'protriptyline', 'amoxapine', 'metabolic'] 1
+['trazodone', 'fluoxetine'] 9
+['paroxetine', 'fluoxetine', 'venlafaxine', 'mirtazapine'] 1
+['fluoxetine', 'escitalopram', 'mirtazapine', 'duloxetine'] 1
+['wellbutrin', 'alprazolam', 'sertraline', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'clomipramine', 'venlafaxine'] 1
+['diazepam', 'temazepam', 'fluvoxamine', 'citalopram', 'alprazolam', 'fluoxetine', 'paroxetine'] 1
+['selegiline', 'fluoxetine', 'escitalopram'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'lamotrigine', 'duloxetine'] 1
+['wellbutrin', 'fluvoxamine', 'aripiprazole', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 2
+['fluoxetine', 'zolmitriptan'] 10
+['citalopram', 'thyroid', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['wellbutrin', 'citalopram', 'fluoxetine', 'sertraline'] 3
+['buprenorphine', 'wellbutrin', 'fluoxetine', 'trazodone', 'aripiprazole'] 1
+['wellbutrin', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['duloxetine', 'wellbutrin', 'fluvoxamine', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['fluoxetine', 'amitriptyline', 'eszopiclone'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 2
+['quetiapine', 'fluoxetine', 'sertraline', 'atovaquone'] 1
+['alprazolam', 'fluoxetine'] 16
+['thyroid', 'sodium', 'cipramil', 'duloxetine', 'quetiapine', 'oxazepam', 'alprazolam', 'fluoxetine', 'escitalopram', 'eskalith', 'phenelzine', 'clonazepam'] 1
+['milnacipran', 'imipramine', 'duloxetine', 'wellbutrin', 'fluoxetine', 'escitalopram', 'amitriptyline', 'paroxetine', 'venlafaxine', 'glucose'] 1
+['thyroid', 'quetiapine', 'zolmitriptan', 'citalopram', 'fluoxetine', 'desvenlafaxine', 'glucose', 'albumin'] 1
+['fluoxetine', 'escitalopram', 'selegiline'] 1
+['fluoxetine', 'escitalopram', 'olanzapine'] 1
+['lamotrigine', 'temazepam', 'duloxetine', 'wellbutrin', 'quetiapine', 'aripiprazole', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'risperidone', 'lisdexamfetamine', 'trazodone', 'eskalith', 'selegiline', 'nortriptyline', 'olanzapine'] 1
+['fluoxetine', 'amitriptyline'] 6
+['heparin', 'fluoxetine', 'cipralex'] 1
+['citalopram', 'sertraline', 'lamotrigine', 'fluoxetine', 'venlafaxine'] 1
+['duloxetine', 'wellbutrin', 'alprazolam', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['citalopram', 'paroxetine', 'fluoxetine', 'venlafaxine', 'quetiapine'] 1
+['wellbutrin', 'quetiapine', 'aripiprazole', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'eskalith', 'venlafaxine'] 1
+['wellbutrin', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['citalopram', 'fluoxetine', 'lorazepam', 'ziprasidone'] 1
+['wellbutrin', 'fluoxetine', 'aripiprazole'] 1
+['wellbutrin', 'fluoxetine', 'escitalopram', 'clonazepam', 'buspirone'] 1
+['vilazodone', 'sertraline', 'fluoxetine'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'sertraline', 'fluoxetine', 'venlafaxine', 'cipralex'] 1
+['clonidine', 'lamotrigine', 'sertraline', 'selegiline', 'ziprasidone', 'desipramine', 'wellbutrin', 'aripiprazole', 'gabapentin', 'trazodone', 'fluoxetine', 'lisdexamfetamine', 'pregabalin', 'olanzapine', 'clonazepam', 'propranolol', 'venlafaxine', 'imipramine', 'duloxetine', 'alprazolam', 'amitriptyline', 'atomoxetine', 'eskalith'] 1
+['vilazodone', 'sertraline', 'fluoxetine', 'duloxetine'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'aripiprazole', 'citalopram', 'sertraline', 'fluoxetine', 'vilazodone', 'desvenlafaxine', 'venlafaxine'] 1
+['vilazodone', 'fluoxetine'] 6
+['wellbutrin', 'citalopram', 'sertraline', 'fluoxetine', 'desvenlafaxine', 'venlafaxine', 'nortriptyline'] 1
+['clonidine', 'propranolol', 'lamotrigine', 'thyroid', 'duloxetine', 'wellbutrin', 'aripiprazole', 'mirtazapine', 'alprazolam', 'trazodone', 'lisdexamfetamine', 'fluoxetine', 'sertraline', 'atomoxetine', 'eskalith', 'selegiline', 'venlafaxine', 'ziprasidone', 'clonazepam'] 1
+['citalopram', 'fluoxetine', 'venlafaxine', 'mirtazapine'] 2
+['asenapine', 'fluoxetine'] 2
+['citalopram', 'sertraline', 'fluoxetine', 'clonazepam'] 1
+['duloxetine', 'wellbutrin', 'fluoxetine', 'escitalopram', 'atomoxetine', 'venlafaxine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'escitalopram'] 1
+['duloxetine', 'wellbutrin', 'aripiprazole', 'zolmitriptan', 'vilazodone', 'sertraline', 'fluoxetine', 'escitalopram', 'selegiline', 'venlafaxine', 'nortriptyline', 'desvenlafaxine'] 1
+['citalopram', 'fluoxetine', 'olanzapine'] 1
+['lamotrigine', 'eszopiclone', 'wellbutrin', 'quetiapine', 'lorazepam', 'citalopram', 'sertraline', 'fluoxetine', 'vilazodone', 'clonazepam'] 1
+['wellbutrin', 'sertraline', 'lamotrigine', 'fluoxetine', 'citalopram'] 1
+['diazepam', 'eszopiclone', 'mirtazapine', 'citalopram', 'trazodone', 'fluoxetine', 'pregabalin'] 1
+['wellbutrin', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'risperidone'] 1
+['epinephrine', 'metyrosine', 'fluoxetine', 'nortriptyline'] 1
+['vilazodone', 'desvenlafaxine', 'fluoxetine'] 1
+['wellbutrin', 'fluoxetine', 'lisdexamfetamine'] 1
+['lamotrigine', 'quetiapine', 'divalproex', 'aripiprazole', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine', 'ziprasidone', 'olanzapine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'zolmitriptan'] 2
+['fluoxetine', 'escitalopram', 'mirtazapine'] 1
+['citalopram', 'fluoxetine', 'diazepam'] 2
+['lamotrigine', 'quetiapine', 'mirtazapine', 'alprazolam', 'fluoxetine', 'escitalopram'] 1
+['trazodone', 'fluoxetine', 'metronidazole', 'clonazepam'] 2
+['duloxetine', 'citalopram', 'fluoxetine', 'escitalopram', 'vortioxetine', 'venlafaxine', 'clomipramine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine'] 13
+['duloxetine', 'wellbutrin', 'aripiprazole', 'mirtazapine', 'citalopram', 'trazodone', 'fluoxetine', 'risperidone', 'venlafaxine', 'cipralex'] 1
+['cipramil', 'duloxetine', 'fluoxetine', 'topiramate', 'desvenlafaxine', 'venlafaxine'] 1
+['fluoxetine', 'nitro'] 1
+['isocarboxazid', 'wellbutrin', 'maprotiline', 'mirtazapine', 'sertraline', 'fluoxetine', 'aspirin', 'amitriptyline', 'phenelzine', 'venlafaxine', 'nortriptyline'] 1
+['lamotrigine', 'fluoxetine', 'lurasidone'] 1
+['wellbutrin', 'mirtazapine', 'gabapentin', 'lurasidone', 'fluoxetine', 'venlafaxine', 'clonazepam'] 1
+['recombinant', 'disulfiram', 'epinephrine', 'tranylcypromine', 'dextromethorphan', 'methylphenidate', 'buspirone', 'meperidine', 'micafungin', 'fluoxetine', 'coagulation', 'antihypertensive', 'metabolic'] 1
+['gabapentin', 'fluoxetine'] 3
+['duloxetine', 'quetiapine', 'buspirone', 'trazodone', 'fluoxetine', 'sertraline', 'oxcarbazepine', 'venlafaxine', 'nortriptyline', 'olanzapine', 'clonazepam'] 1
+['desvenlafaxine', 'lamotrigine', 'fluoxetine'] 1
+['trazodone', 'fluoxetine', 'lorazepam', 'diphenhydramine'] 1
+['wellbutrin', 'thyroid', 'tranylcypromine', 'fluoxetine'] 2
+['wellbutrin', 'fluoxetine', 'mirtazapine'] 4
+['citalopram', 'sertraline', 'fluoxetine', 'lisdexamfetamine'] 1
+['wellbutrin', 'alprazolam', 'fluoxetine', 'lorazepam'] 1
+['fluoxetine', 'clonazepam', 'mirtazapine'] 1
+['duloxetine', 'wellbutrin', 'methylphenidate', 'sertraline', 'fluoxetine', 'escitalopram', 'trazodone'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'venlafaxine'] 3
+['fluoxetine', 'clomipramine'] 5
+['eskalith', 'fluoxetine'] 4
+['acetaminophen', 'fluoxetine', 'ibuprofen', 'olanzapine'] 1
+['gabapentin', 'propranolol', 'fluoxetine', 'carbamazepine', 'clonazepam'] 1
+['duloxetine', 'wellbutrin', 'lorazepam', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'eskalith', 'venlafaxine', 'clonazepam'] 1
+['gabapentin', 'fluoxetine', 'clonazepam'] 1
+['thyroid', 'fluoxetine', 'propranolol'] 1
+['sumatriptan', 'diclofenac', 'sertraline', 'escitalopram', 'carbamazepine', 'phenelzine', 'selegiline', 'naratriptan', 'fluvoxamine', 'almotriptan', 'indomethacin', 'citalopram', 'fluoxetine', 'paroxetine', 'naprosyn', 'rasagiline', 'isocarboxazid', 'tranylcypromine', 'nabumetone', 'aspirin', 'nortriptyline', 'piroxicam', 'etodolac', 'ibuprofen', 'imipramine', 'frovatriptan', 'zolmitriptan', 'amitriptyline', 'eskalith', 'rizatriptan'] 1
+['sertraline', 'fluoxetine', 'olanzapine'] 1
+['sertraline', 'fluoxetine', 'escitalopram', 'hepatitis'] 1
+['propranolol', 'fluoxetine', 'divalproex'] 1
+['quetiapine', 'sertraline', 'fluoxetine', 'olanzapine', 'mirtazapine'] 1
+['fluoxetine', 'nortriptyline'] 3
+['lamotrigine', 'levetiracetam', 'zolmitriptan', 'gabapentin', 'fluoxetine', 'carbamazepine', 'oxcarbazepine'] 1
+['lamotrigine', 'wellbutrin', 'quetiapine', 'aripiprazole', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['fluoxetine', 'lamotrigine'] 1
+['wellbutrin', 'fluvoxamine', 'zolmitriptan', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['propranolol', 'wellbutrin', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'carbamazepine', 'clonazepam'] 1
+['duloxetine', 'sertraline', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'venlafaxine'] 1
+['wellbutrin', 'fluoxetine', 'imipramine'] 1
+['alprazolam', 'fluoxetine', 'clonazepam'] 1
+['fluoxetine', 'fluvoxamine'] 6
+['eskalith', 'quetiapine', 'fluoxetine', 'escitalopram'] 1
+['duloxetine', 'quetiapine', 'mirtazapine', 'citalopram', 'fluoxetine', 'paroxetine', 'venlafaxine'] 1
+['fluoxetine', 'olanzapine', 'paliperidone', 'clonazepam'] 1
+['levetiracetam', 'imipramine', 'dextromethorphan', 'mirtazapine', 'alprazolam', 'fluoxetine', 'selegiline', 'venlafaxine', 'nortriptyline', 'clomipramine', 'desipramine'] 1
+['duloxetine', 'quetiapine', 'gabapentin', 'sertraline', 'fluoxetine', 'citalopram', 'pregabalin', 'desvenlafaxine'] 1
+['citalopram', 'fluoxetine', 'venlafaxine', 'mirtazapine', 'duloxetine'] 1
+['lamotrigine', 'fluoxetine', 'venlafaxine'] 1
+['alprazolam', 'fluoxetine', 'duloxetine'] 1
+['quetiapine', 'fluoxetine', 'lamotrigine'] 1
+['quetiapine', 'lamotrigine', 'fluoxetine'] 1
+['duloxetine', 'wellbutrin', 'quetiapine', 'divalproex', 'citalopram', 'trazodone', 'fluoxetine', 'venlafaxine', 'ziprasidone', 'clonazepam'] 1
+['asa', 'thioridazine', 'fluoxetine', 'olanzapine'] 1
+['risperidone', 'fluoxetine'] 3
+['wellbutrin', 'citalopram', 'fluoxetine', 'venlafaxine', 'selegiline'] 1
+['lamotrigine', 'wellbutrin', 'citalopram', 'fluoxetine', 'risperidone', 'eskalith'] 1
+['quetiapine', 'fluoxetine', 'eszopiclone'] 1
+['wellbutrin', 'fluoxetine', 'clonazepam'] 8
+['duloxetine', 'wellbutrin', 'citalopram', 'fluoxetine', 'escitalopram', 'desvenlafaxine'] 1
+['fluoxetine', 'escitalopram', 'nortriptyline'] 1
+['fluoxetine', 'lorazepam', 'fluvoxamine', 'pregabalin'] 1
+['eskalith', 'wellbutrin', 'fluoxetine', 'olanzapine'] 1
+['prudoxin', 'fluoxetine'] 1
+['alprazolam', 'fluoxetine', 'lorazepam', 'clonazepam'] 1
+['fluoxetine', 'mirtazapine'] 20
+['alprazolam', 'fluoxetine', 'methylprednisolone'] 1
+['duloxetine', 'sertraline', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'venlafaxine', 'selegiline'] 1
+['wound', 'fluoxetine'] 1
+['eskalith', 'fluoxetine', 'desvenlafaxine'] 1
+['quetiapine', 'fluoxetine'] 8
+['citalopram', 'sertraline', 'fluoxetine', 'wellbutrin', 'venlafaxine'] 1
+['risperidone', 'fluoxetine', 'aripiprazole'] 1
+['eskalith', 'fluoxetine', 'amitriptyline'] 1
+['fluoxetine', 'clonazepam', 'eszopiclone'] 1
+['lamotrigine', 'levetiracetam', 'duloxetine', 'wellbutrin', 'aripiprazole', 'sertraline', 'fluoxetine', 'escitalopram', 'eskalith', 'venlafaxine'] 1
+['eskalith', 'fluoxetine', 'olanzapine'] 1
+['propranolol', 'fluoxetine'] 2
+['diazepam', 'tramadol', 'dextromethorphan', 'fluvoxamine', 'mirtazapine', 'alprazolam', 'fluoxetine', 'chlorpheniramine', 'clonazepam'] 1
+['alprazolam', 'quetiapine', 'fluoxetine', 'trazodone', 'clonazepam'] 1
+['fluoxetine', 'escitalopram', 'amitriptyline'] 1
+['duloxetine', 'wellbutrin', 'quetiapine', 'aripiprazole', 'sertraline', 'fluoxetine', 'escitalopram', 'risperidone', 'eskalith', 'venlafaxine', 'ziprasidone', 'olanzapine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'clomipramine'] 1
+['fluoxetine', 'fluvoxamine', 'clonazepam', 'eszopiclone'] 1
+['wellbutrin', 'fluoxetine', 'topiramate', 'imipramine', 'duloxetine'] 1
+['wellbutrin', 'fluoxetine', 'temazepam', 'mirtazapine', 'duloxetine'] 1
+['quetiapine', 'diazepam', 'fluoxetine'] 1
+['lamotrigine', 'wellbutrin', 'mirtazapine', 'sertraline', 'fluoxetine', 'venlafaxine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'venlafaxine', 'eskalith'] 1
+['fluoxetine', 'methylprednisolone', 'olanzapine'] 1
+['asa', 'fluoxetine', 'selegiline'] 1
+['zolmitriptan', 'fluoxetine', 'amitriptyline', 'pregabalin'] 1
+['selegiline', 'fluoxetine', 'topiramate', 'aripiprazole'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'wellbutrin', 'fluvoxamine'] 1
+['fluoxetine', 'diazepam'] 3
+['eskalith', 'quetiapine', 'fluoxetine'] 1
+['fluoxetine', 'risperidone', 'divalproex'] 1
+['duloxetine', 'wellbutrin', 'methylphenidate', 'aripiprazole', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'atomoxetine', 'venlafaxine'] 1
+['eskalith', 'wellbutrin', 'fluoxetine', 'aripiprazole'] 1
+['fluoxetine', 'risperidone', 'ziprasidone', 'olanzapine', 'aripiprazole'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'citalopram', 'fluvoxamine'] 1
+['vilazodone', 'fluoxetine', 'escitalopram'] 1
+['fluoxetine', 'risperidone', 'olanzapine'] 1
+['quetiapine', 'hydroxyzine', 'citalopram', 'sertraline', 'fluoxetine', 'clonazepam'] 1
+['eskalith', 'fluoxetine', 'mirtazapine'] 1
+['tadalafil', 'duloxetine', 'wellbutrin', 'lorazepam', 'citalopram', 'fluoxetine', 'escitalopram', 'micafungin', 'nifedipine', 'eskalith', 'phenelzine', 'desvenlafaxine', 'venlafaxine', 'clonazepam'] 1
+['quetiapine', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'venlafaxine'] 1
+['fluoxetine', 'ziprasidone', 'olanzapine', 'aripiprazole'] 1
+['fluoxetine', 'ziprasidone', 'olanzapine', 'topiramate'] 1
+['chlorpromazine', 'fluoxetine', 'olanzapine'] 1
+['lamotrigine', 'eszopiclone', 'lamivudine', 'quetiapine', 'lorazepam', 'fluoxetine'] 1
+['cipramil', 'mirtazapine', 'zolmitriptan', 'sertraline', 'fluoxetine', 'paroxetine'] 1
+['methylphenidate', 'alprazolam', 'citalopram', 'lisdexamfetamine', 'escitalopram', 'fluoxetine', 'sertraline', 'venlafaxine'] 1
+['fluoxetine', 'loxapine'] 1
+['trazodone', 'fluoxetine', 'diazepam', 'zolpidem', 'mirtazapine'] 1
+['chlorpromazine', 'quetiapine', 'fluoxetine', 'olanzapine'] 1
+['duloxetine', 'wellbutrin', 'quetiapine', 'aripiprazole', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'amitriptyline', 'eskalith', 'phenelzine', 'venlafaxine'] 1
+['duloxetine', 'fluoxetine', 'venlafaxine', 'zolmitriptan'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'venlafaxine', 'zolmitriptan'] 1
+['sertraline', 'fluoxetine', 'clomipramine', 'aripiprazole', 'duloxetine'] 1
+['fluoxetine', 'clonazepam', 'testosterone'] 1
+['propranolol', 'imipramine', 'isocarboxazid', 'wellbutrin', 'tranylcypromine', 'buspirone', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'paroxetine', 'phenelzine', 'venlafaxine', 'clomipramine', 'clonazepam'] 1
+['fluoxetine', 'carbamazepine', 'haloperidol'] 1
+['alprazolam', 'wellbutrin', 'fluoxetine'] 3
+['quetiapine', 'divalproex', 'aripiprazole', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'lurasidone', 'desvenlafaxine'] 1
+['quetiapine', 'alprazolam', 'trazodone', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'quetiapine', 'aripiprazole', 'mirtazapine', 'fluoxetine', 'escitalopram', 'phenelzine', 'selegiline'] 1
+['duloxetine', 'wellbutrin', 'fluoxetine', 'desvenlafaxine', 'venlafaxine', 'cipralex'] 1
+['fluoxetine', 'lamotrigine', 'clonazepam'] 1
+['oxycodone', 'duloxetine', 'quetiapine', 'alprazolam', 'fluoxetine', 'desvenlafaxine'] 1
+['sertraline', 'fluoxetine', 'metyrosine', 'zolmitriptan'] 2
+['eskalith', 'fluoxetine', 'venlafaxine'] 2
+['alprazolam', 'fluoxetine', 'midazolam'] 1
+['lamotrigine', 'fluoxetine'] 1
+['sertraline', 'fluoxetine', 'lorazepam'] 3
+['citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'fluvoxamine'] 1
+['alprazolam', 'nitazoxanide', 'aspirin', 'acetaminophen', 'trazodone', 'fluoxetine', 'zaleplon', 'venlafaxine', 'ziprasidone', 'olanzapine'] 1
+['fluoxetine', 'escitalopram', 'zolmitriptan'] 3
+['quetiapine', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'desvenlafaxine'] 1
+['diazepam', 'mirtazapine', 'citalopram', 'fluoxetine', 'escitalopram', 'paroxetine', 'venlafaxine'] 1
+['aripiprazole', 'sertraline', 'fluoxetine', 'prudoxin', 'escitalopram', 'clonazepam'] 1
+['wound', 'trazodone', 'fluoxetine'] 1
+['alprazolam', 'sertraline', 'citalopram', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['lamivudine', 'fluoxetine', 'sodium', 'zolmitriptan'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'mirtazapine', 'duloxetine'] 1
+['duloxetine', 'citalopram', 'sertraline', 'fluoxetine', 'paroxetine', 'venlafaxine', 'olanzapine'] 1
+['fluoxetine', 'venlafaxine', 'lorazepam'] 2
+['paroxetine', 'fluoxetine'] 8
+['wellbutrin', 'fluoxetine', 'clonazepam', 'zolmitriptan'] 1
+['duloxetine', 'wellbutrin', 'citalopram', 'fluoxetine', 'desvenlafaxine', 'venlafaxine'] 1
+['propafenone', 'sumatriptan', 'imipramine', 'phenytoin', 'fluvoxamine', 'alglucosidase', 'sertraline', 'fluoxetine', 'thioridazine', 'amitriptyline', 'paroxetine', 'nortriptyline', 'desipramine'] 1
+['paroxetine', 'sertraline', 'fluoxetine'] 1
+['zolmitriptan', 'fluoxetine', 'escitalopram', 'vortioxetine', 'duloxetine'] 1
+['trazodone', 'fluoxetine', 'escitalopram', 'methylprednisolone', 'duloxetine'] 1
+['fluoxetine', 'venlafaxine', 'escitalopram', 'mirtazapine'] 1
+['fluoxetine', 'azithromycin'] 1
+['fluoxetine', 'prenatal'] 1
+['fluoxetine', 'diazepam', 'mirtazapine'] 2
+['sertraline', 'fluoxetine', 'haloperidol'] 1
+['quetiapine', 'lorazepam', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'desvenlafaxine'] 1
+['sertraline', 'fluoxetine', 'metronidazole', 'clonazepam'] 1
+['citalopram', 'trazodone', 'fluoxetine', 'diazepam'] 1
+['citalopram', 'asa', 'sertraline', 'fluoxetine', 'venlafaxine'] 1
+['fluoxetine', 'venlafaxine', 'lorazepam', 'duloxetine'] 1
+['fluoxetine', 'metabolic'] 2
+['fluoxetine', 'risperidone', 'clonazepam'] 1
+['fluoxetine', 'venlafaxine', 'clonazepam', 'mirtazapine'] 1
+['lamotrigine', 'escitalopram', 'fluoxetine'] 2
+['alprazolam', 'eskalith', 'fluoxetine'] 1
+['citalopram', 'thyroid', 'fluoxetine', 'wellbutrin'] 1
+['asa', 'fluoxetine'] 3
+['wellbutrin', 'citalopram', 'fluoxetine', 'escitalopram', 'sertraline'] 1
+['citalopram', 'asa', 'fluoxetine'] 1
+['sertraline', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['alprazolam', 'quetiapine', 'fluoxetine'] 2
+['wellbutrin', 'sertraline', 'fluoxetine', 'mirtazapine'] 2
+['fluoxetine', 'escitalopram', 'venlafaxine', 'duloxetine'] 1
+['fluoxetine', 'tumor'] 1
+['fluoxetine', 'topiramate'] 1
+['trazodone', 'fluoxetine', 'mirtazapine'] 1
+['fluoxetine', 'lorazepam'] 9
+['wellbutrin', 'rizatriptan', 'fluoxetine'] 1
+['thyroid', 'fluoxetine'] 4
+['gabapentin', 'fluoxetine', 'duloxetine'] 1
+['fluoxetine', 'bromocriptine'] 1
+['citalopram', 'terbinafine', 'fluoxetine'] 2
+['fluoxetine', 'progesterone'] 1
+['wellbutrin', 'trazodone', 'fluoxetine', 'augmented'] 1
+['zolmitriptan', 'fluoxetine', 'isocarboxazid'] 1
+['wellbutrin', 'quetiapine', 'trazodone', 'fluoxetine', 'phenelzine', 'desvenlafaxine', 'venlafaxine', 'ziprasidone', 'olanzapine'] 1
+['citalopram', 'fluoxetine', 'prenatal', 'zolmitriptan'] 1
+['lamivudine', 'fluoxetine', 'isocarboxazid'] 1
+['fluoxetine', 'isocarboxazid'] 1
+['citalopram', 'fluoxetine', 'lorazepam', 'mirtazapine'] 1
+['wellbutrin', 'eskalith', 'fluoxetine', 'venlafaxine', 'citalopram'] 1
+['alprazolam', 'sertraline', 'fluoxetine'] 3
+['sertraline', 'fluoxetine', 'methylphenidate', 'aripiprazole', 'duloxetine'] 1
+['lisdexamfetamine', 'fluoxetine'] 1
+['fluoxetine', 'cyclobenzaprine'] 1
+['fluoxetine', 'venlafaxine', 'amitriptyline'] 1
+['sertraline', 'fluoxetine', 'escitalopram', 'lorazepam'] 1
+['wellbutrin', 'alprazolam', 'fluoxetine'] 3
+['sertraline', 'fluoxetine', 'colyte'] 1
+['sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine', 'lorazepam'] 1
+['oxcarbazepine', 'fluoxetine', 'olanzapine', 'mirtazapine'] 1
+['fluoxetine', 'codeine'] 1
+['wellbutrin', 'sertraline', 'citalopram', 'fluoxetine'] 2
+['fluoxetine', 'lorazepam', 'cyclobenzaprine'] 1
+['fluoxetine', 'progesterone', 'zolmitriptan'] 1
+['fluoxetine', 'zinc', 'mirtazapine'] 1
+['propranolol', 'diclofenac', 'fluvoxamine', 'alprazolam', 'sertraline', 'fluoxetine', 'clonazepam'] 1
+['fluoxetine', 'risperidone'] 3
+['citalopram', 'fluoxetine', 'cipralex'] 1
+['eskalith', 'fluoxetine', 'escitalopram'] 1
+['fluoxetine', 'dalteparin'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'armodafinil'] 2
+['alprazolam', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['alprazolam', 'fluoxetine', 'escitalopram'] 2
+['quetiapine', 'fluoxetine', 'ibuprofen', 'olanzapine'] 1
+['duloxetine', 'quetiapine', 'aripiprazole', 'alprazolam', 'sertraline', 'fluoxetine'] 1
+['fluoxetine', 'escitalopram', 'lamotrigine'] 1
+['lisdexamfetamine', 'methylphenidate', 'escitalopram', 'fluoxetine'] 1
+['fluoxetine', 'ibuprofen'] 2
+['wellbutrin', 'sertraline', 'fluoxetine', 'venlafaxine', 'lamotrigine'] 1
+['citalopram', 'trazodone', 'fluoxetine', 'sertraline'] 1
+['wellbutrin', 'zolmitriptan', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['wellbutrin', 'trazodone', 'fluoxetine'] 3
+['sertraline', 'fluoxetine', 'aripiprazole', 'haloperidol'] 1
+['alprazolam', 'citalopram', 'fluoxetine', 'zolmitriptan'] 1
+['wellbutrin', 'fluoxetine', 'zolmitriptan'] 2
+['fluoxetine', 'testosterone'] 3
+['trazodone', 'fluoxetine', 'diazepam'] 1
+['fluoxetine', 'venlafaxine', 'zostavax'] 1
+['fluoxetine', 'methylprednisolone', 'hydrocortisone'] 1
+['alprazolam', 'sertraline', 'fluoxetine', 'fluvoxamine'] 1
+['duloxetine', 'fluvoxamine', 'sertraline', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['aspirin', 'fluoxetine', 'desvenlafaxine'] 1
+['citalopram', 'fluoxetine', 'escitalopram', 'desvenlafaxine'] 1
+['citalopram', 'fluoxetine', 'diazepam', 'mirtazapine'] 1
+['wellbutrin', 'fluoxetine', 'buspirone'] 1
+['fluoxetine', 'methylphenidate', 'escitalopram'] 1
+['fluoxetine', 'venlafaxine', 'cipralex', 'duloxetine'] 2
+['testosterone', 'fluoxetine', 'adapalene'] 1
+['duloxetine', 'fluvoxamine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'alprazolam', 'clomipramine'] 1
+['fluoxetine', 'prudoxin'] 1
+['wellbutrin', 'trazodone', 'quetiapine', 'escitalopram', 'fluoxetine'] 1
+['asa', 'fluoxetine', 'tramadol'] 1
+['sertraline', 'fluoxetine', 'venlafaxine', 'modafinil', 'mirtazapine'] 1
+['sertraline', 'desvenlafaxine', 'venlafaxine', 'fluoxetine', 'clonazepam'] 1
+['asa', 'prudoxin', 'fluoxetine'] 1
+['sertraline', 'fluoxetine', 'clonazepam'] 2
+['thyroid', 'fluoxetine', 'eszopiclone'] 1
+['quetiapine', 'fluoxetine', 'oxazepam', 'amitriptyline'] 1
+['duloxetine', 'wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'atomoxetine', 'desvenlafaxine', 'venlafaxine'] 1
+['chlorpromazine', 'fluoxetine'] 1
+['fluoxetine', 'fluvoxamine', 'sodium'] 1
+['citalopram', 'fluoxetine', 'zolmitriptan'] 1
+['fluoxetine', 'augmented'] 1
+['wellbutrin', 'alprazolam', 'fluoxetine', 'venlafaxine'] 1
+['lamotrigine', 'lorazepam', 'zolmitriptan', 'citalopram', 'fluoxetine', 'escitalopram', 'desvenlafaxine', 'venlafaxine', 'olanzapine'] 1
+['fluoxetine', 'methylphenidate'] 2
+['dexmethylphenidate', 'fluoxetine', 'methylphenidate'] 1
+['wellbutrin', 'fluoxetine', 'lamotrigine'] 1
+['trazodone', 'fluoxetine', 'lisdexamfetamine'] 1
+['fluoxetine', 'lorazepam', 'zolmitriptan'] 2
+['wellbutrin', 'fluoxetine', 'atomoxetine'] 1
+['fluoxetine', 'aripiprazole', 'duloxetine'] 1
+['vilazodone', 'thyroid', 'fluoxetine', 'wound'] 1
+['alprazolam', 'quetiapine', 'fluoxetine', 'clonazepam'] 1
+['citalopram', 'fluoxetine', 'methylphenidate', 'clonazepam'] 1
+['nefazodone', 'fluoxetine'] 1
+['fluoxetine', 'tolterodine'] 1
+['aspirin', 'fluoxetine'] 1
+['fluoxetine', 'sodium'] 1
+['sertraline', 'fluoxetine', 'escitalopram', 'mirtazapine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'carbamazepine'] 1
+['fluoxetine', 'fluvoxamine', 'eszopiclone'] 1
+['alprazolam', 'sertraline', 'fluoxetine', 'lamotrigine', 'asa'] 1
+['gabapentin', 'alprazolam', 'fluoxetine', 'wellbutrin'] 1
+['wellbutrin', 'fluoxetine', 'lorazepam'] 2
+['alprazolam', 'sertraline', 'fluoxetine', 'clonazepam'] 1
+['citalopram', 'fluoxetine', 'amitriptyline'] 1
+['wellbutrin', 'asa', 'fluoxetine'] 1
+['wellbutrin', 'fluoxetine', 'olanzapine'] 2
+['fluoxetine', 'olanzapine', 'mirtazapine'] 2
+['sertraline', 'fluoxetine', 'escitalopram', 'duloxetine'] 1
+['alprazolam', 'vilazodone', 'fluoxetine', 'trazodone', 'duloxetine'] 1
+['fluoxetine', 'tramadol'] 1
+['citalopram', 'sertraline', 'wellbutrin', 'fluoxetine'] 1
+['sertraline', 'fluoxetine', 'zolmitriptan'] 2
+['wellbutrin', 'sertraline', 'fluoxetine', 'tumor', 'clonazepam'] 1
+['fluoxetine', 'escitalopram', 'cipramil', 'duloxetine'] 1
+['fluoxetine', 'lorazepam', 'amitriptyline'] 1
+['alprazolam', 'trazodone', 'fluoxetine'] 1
+['lamotrigine', 'duloxetine', 'lurasidone', 'escitalopram', 'fluoxetine', 'paroxetine', 'eskalith', 'desvenlafaxine'] 1
+['fluoxetine', 'lamotrigine', 'aripiprazole'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'duloxetine'] 2
+['sertraline', 'fluoxetine', 'lansoprazole', 'mirtazapine'] 1
+['diazepam', 'sodium', 'imipramine', 'eszopiclone', 'clobazam', 'oxazepam', 'phenytoin', 'fluvoxamine', 'mirtazapine', 'alprazolam', 'sertraline', 'prudoxin', 'fluoxetine', 'citalopram', 'amitriptyline', 'zolpidem', 'carbamazepine', 'paroxetine', 'gabapentin', 'venlafaxine'] 1
+['fluoxetine', 'mirtazapine', 'zolmitriptan'] 3
+['fluoxetine', 'fluvoxamine', 'mirtazapine'] 1
+['wellbutrin', 'lorazepam', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['fluoxetine', 'mirtazapine', 'augmented'] 1
+['wellbutrin', 'aripiprazole', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine', 'augmented'] 1
+['fluoxetine', 'mirtazapine', 'duloxetine'] 1
+['fluoxetine', 'venlafaxine', 'cipramil', 'mirtazapine'] 1
+['diazepam', 'fluoxetine', 'insulin'] 1
+['trazodone', 'fluoxetine', 'panhematin', 'mirtazapine', 'zolmitriptan'] 1
+['quetiapine', 'fluoxetine', 'diphenhydramine', 'clonazepam', 'mirtazapine'] 1
+['sertraline', 'fluoxetine', 'mirtazapine', 'duloxetine'] 1
+['wellbutrin', 'mirtazapine', 'sertraline', 'fluoxetine', 'pregabalin', 'clonazepam'] 1
+['duloxetine', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'paroxetine'] 1
+['thyroid', 'fluoxetine', 'mirtazapine'] 1
+['wellbutrin', 'fluoxetine', 'nortriptyline', 'mirtazapine'] 1
+['clonidine', 'fluoxetine', 'mirtazapine'] 1
+['fluoxetine', 'lorazepam', 'mirtazapine', 'duloxetine'] 1
+['duloxetine', 'wellbutrin', 'mirtazapine', 'alprazolam', 'sertraline', 'fluoxetine'] 1
+['citalopram', 'trazodone', 'fluoxetine', 'mirtazapine', 'duloxetine'] 2
+['duloxetine', 'wellbutrin', 'aripiprazole', 'mirtazapine', 'armodafinil', 'fluoxetine', 'desipramine'] 1
+['ingenol', 'fluoxetine', 'mirtazapine'] 1
+['duloxetine', 'wellbutrin', 'mirtazapine', 'fluoxetine', 'desvenlafaxine', 'cipralex'] 1
+['wellbutrin', 'quetiapine', 'mirtazapine', 'fluoxetine', 'escitalopram', 'pregabalin', 'clonazepam'] 1
+['fluoxetine', 'lorazepam', 'escitalopram', 'mirtazapine'] 1
+['quetiapine', 'fluoxetine', 'escitalopram', 'ziprasidone'] 2
+['wellbutrin', 'vilazodone', 'sertraline', 'fluoxetine', 'citalopram', 'venlafaxine'] 1
+['vilazodone', 'wellbutrin', 'fluoxetine'] 1
+['vilazodone', 'fluoxetine', 'methylphenidate'] 1
+['vilazodone', 'alprazolam', 'fluoxetine', 'trazodone'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'cipralex'] 2
+['duloxetine', 'wellbutrin', 'lorazepam', 'mirtazapine', 'fluoxetine', 'desvenlafaxine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'venlafaxine', 'mirtazapine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'citalopram', 'venlafaxine'] 1
+['paroxetine', 'citalopram', 'fluoxetine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'zolmitriptan'] 1
+['wellbutrin', 'citalopram', 'lamotrigine', 'fluoxetine', 'olanzapine'] 1
+['wellbutrin', 'fluoxetine', 'venlafaxine', 'lorazepam'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'quetiapine', 'fluoxetine', 'escitalopram', 'eskalith'] 1
+['duloxetine', 'wellbutrin', 'zolmitriptan', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['alprazolam', 'wellbutrin', 'fluoxetine', 'naprosyn', 'cyclobenzaprine'] 1
+['wellbutrin', 'citalopram', 'fluoxetine'] 2
+['wellbutrin', 'trazodone', 'fluoxetine', 'lorazepam'] 1
+['wellbutrin', 'selegiline', 'fluoxetine'] 1
+['wellbutrin', 'desvenlafaxine', 'escitalopram', 'selegiline', 'fluoxetine'] 1
+['wellbutrin', 'fluoxetine', 'lamotrigine', 'perphenazine', 'clonazepam'] 1
+['wellbutrin', 'fluoxetine', 'leuprolide'] 1
+['duloxetine', 'wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['wellbutrin', 'lamivudine', 'fluoxetine', 'aripiprazole', 'zolmitriptan'] 1
+['nefazodone', 'sertraline', 'fluoxetine', 'venlafaxine', 'wellbutrin'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'metyrosine'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'aripiprazole', 'alprazolam', 'sertraline', 'fluoxetine', 'escitalopram', 'topiramate', 'desvenlafaxine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'lorazepam', 'wellbutrin'] 1
+['wellbutrin', 'zolpidem', 'fluoxetine', 'diazepam', 'thyroid'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['duloxetine', 'wellbutrin', 'citalopram', 'fluoxetine', 'escitalopram', 'venlafaxine'] 2
+['wellbutrin', 'lamotrigine', 'fluoxetine', 'aripiprazole', 'duloxetine'] 1
+['nefazodone', 'citalopram', 'sertraline', 'fluoxetine', 'trazodone', 'wound', 'desvenlafaxine', 'cipralex'] 1
+['vilazodone', 'sertraline', 'fluoxetine', 'wellbutrin'] 1
+['gabapentin', 'wellbutrin', 'fluoxetine', 'clonazepam', 'mirtazapine'] 1
+['aspirin', 'fluoxetine', 'clonazepam'] 1
+['duloxetine', 'wellbutrin', 'aripiprazole', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine', 'benztropine'] 1
+['wellbutrin', 'alprazolam', 'fluoxetine', 'sertraline', 'venlafaxine'] 1
+['wellbutrin', 'desvenlafaxine', 'fluoxetine'] 1
+['alprazolam', 'fluoxetine', 'lorazepam', 'escitalopram'] 1
+['alprazolam', 'sertraline', 'fluoxetine', 'escitalopram', 'clonazepam'] 1
+['alprazolam', 'wellbutrin', 'fluoxetine', 'escitalopram'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'escitalopram', 'quetiapine'] 1
+['wellbutrin', 'fluoxetine', 'temazepam', 'clonazepam', 'mirtazapine'] 1
+['wellbutrin', 'aripiprazole', 'sertraline', 'fluoxetine', 'escitalopram', 'selegiline'] 1
+['duloxetine', 'wellbutrin', 'alprazolam', 'sertraline', 'fluoxetine', 'lisdexamfetamine'] 1
+['wellbutrin', 'lamotrigine', 'fluoxetine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'testosterone'] 1
+['wellbutrin', 'desvenlafaxine', 'fluoxetine', 'clonazepam'] 1
+['sertraline', 'fluoxetine', 'bupropion'] 1
+['sertraline', 'fluoxetine', 'risperidone'] 1
+['sertraline', 'fluoxetine', 'quetiapine', 'duloxetine'] 1
+['wellbutrin', 'alprazolam', 'sertraline', 'fluoxetine', 'amitriptyline', 'venlafaxine'] 1
+['duloxetine', 'mirtazapine', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['paroxetine', 'citalopram', 'fluoxetine', 'trazodone', 'sertraline'] 1
+['alprazolam', 'sertraline', 'fluoxetine', 'venlafaxine'] 1
+['paroxetine', 'sertraline', 'fluoxetine', 'citalopram', 'mirtazapine'] 1
+['sertraline', 'fluoxetine', 'clomipramine', 'venlafaxine'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'venlafaxine', 'citalopram'] 2
+['citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'mirtazapine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'diazepam'] 1
+['alprazolam', 'sertraline', 'fluoxetine', 'escitalopram', 'fluvoxamine'] 1
+['sertraline', 'fluoxetine', 'quetiapine', 'risperidone'] 1
+['sertraline', 'fluoxetine', 'cipralex'] 1
+['sertraline', 'fluoxetine', 'prudoxin', 'mag'] 1
+['sertraline', 'quetiapine', 'fluoxetine', 'clonazepam'] 1
+['thyroid', 'fluoxetine', 'sertraline'] 1
+['mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'venlafaxine'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'alprazolam', 'wellbutrin'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'venlafaxine', 'mirtazapine'] 1
+['citalopram', 'wellbutrin', 'fluoxetine', 'sertraline'] 1
+['sertraline', 'fluoxetine', 'zostavax'] 1
+['asa', 'duloxetine', 'mirtazapine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram', 'paroxetine'] 1
+['clonidine', 'sertraline', 'fluoxetine', 'cipralex'] 1
+['sertraline', 'fluoxetine', 'escitalopram', 'zolmitriptan'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'vilazodone'] 1
+['sertraline', 'fluoxetine', 'lamotrigine', 'clonazepam'] 1
+['sertraline', 'fluoxetine', 'propranolol'] 1
+['desvenlafaxine', 'fluoxetine', 'zostavax'] 1
+['alprazolam', 'sertraline', 'fluoxetine', 'buspirone'] 1
+['imipramine', 'duloxetine', 'citalopram', 'sertraline', 'fluoxetine', 'escitalopram'] 1
+['vilazodone', 'sertraline', 'lamotrigine', 'fluoxetine', 'escitalopram'] 1
+['citalopram', 'sertraline', 'fluoxetine', 'venlafaxine', 'clomipramine'] 1

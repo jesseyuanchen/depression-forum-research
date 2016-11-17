@@ -1,0 +1,136 @@
+States that start with vilazodone
+['vilazodone', 'escitalopram'] 3
+['vilazodone', 'sertraline', 'aripiprazole'] 2
+['vilazodone', 'quetiapine', 'escitalopram'] 1
+['vilazodone', 'duloxetine'] 4
+['vilazodone', 'wellbutrin', 'desvenlafaxine', 'escitalopram'] 1
+['vilazodone', 'wellbutrin', 'desvenlafaxine', 'escitalopram', 'duloxetine'] 1
+['vilazodone', 'venlafaxine', 'mirtazapine'] 1
+['vilazodone', 'asa', 'venlafaxine', 'zolmitriptan'] 1
+['vilazodone'] 29
+['vilazodone', 'sertraline', 'fluoxetine'] 1
+['vilazodone', 'wellbutrin', 'trazodone', 'aripiprazole', 'clonazepam'] 1
+['vilazodone', 'sertraline', 'fluoxetine', 'duloxetine'] 1
+['vilazodone', 'lisdexamfetamine', 'escitalopram', 'duloxetine'] 1
+['vilazodone', 'fluoxetine'] 6
+['vilazodone', 'wellbutrin', 'aripiprazole', 'clonazepam'] 1
+['vilazodone', 'lamotrigine', 'lorazepam', 'duloxetine'] 1
+['vilazodone', 'desvenlafaxine', 'fluoxetine'] 1
+['vilazodone', 'wellbutrin', 'trazodone', 'prudoxin', 'nortriptyline'] 1
+['vilazodone', 'phenelzine'] 1
+['vilazodone', 'fluoxetine', 'escitalopram'] 1
+['vilazodone', 'clomipramine'] 1
+['vilazodone', 'sertraline'] 5
+['vilazodone', 'quetiapine', 'olanzapine'] 1
+['vilazodone', 'quetiapine', 'trazodone', 'olanzapine', 'clonazepam'] 1
+['vilazodone', 'escitalopram', 'lorazepam', 'clonazepam', 'aripiprazole'] 1
+['vilazodone', 'escitalopram', 'clomipramine'] 1
+['vilazodone', 'thyroid', 'fluoxetine', 'wound'] 1
+['vilazodone', 'wellbutrin', 'quetiapine', 'mirtazapine'] 1
+['vilazodone', 'aripiprazole'] 1
+['vilazodone', 'wellbutrin', 'sertraline'] 1
+['vilazodone', 'citalopram'] 1
+['vilazodone', 'zolmitriptan'] 1
+['vilazodone', 'wellbutrin', 'fluoxetine'] 1
+['vilazodone', 'wellbutrin', 'duloxetine'] 1
+['vilazodone', 'wellbutrin'] 1
+['vilazodone', 'trazodone'] 1
+['vilazodone', 'desvenlafaxine'] 2
+['vilazodone', 'quetiapine', 'lamotrigine', 'desvenlafaxine', 'wellbutrin'] 1
+['vilazodone', 'sertraline', 'venlafaxine', 'fluvoxamine'] 1
+['vilazodone', 'lorazepam', 'duloxetine'] 1
+['vilazodone', 'lisdexamfetamine', 'aripiprazole', 'clonazepam', 'duloxetine'] 1
+['vilazodone', 'pregabalin'] 1
+['vilazodone', 'fluoxetine', 'methylphenidate'] 1
+['vilazodone', 'clonazepam'] 1
+['vilazodone', 'lamotrigine'] 1
+['vilazodone', 'sertraline', 'duloxetine'] 1
+['vilazodone', 'aripiprazole', 'buspirone'] 1
+['vilazodone', 'wellbutrin', 'lamotrigine'] 1
+['vilazodone', 'alprazolam', 'fluoxetine', 'trazodone'] 1
+['vilazodone', 'sertraline', 'fluoxetine', 'wellbutrin'] 1
+['vilazodone', 'wellbutrin', 'escitalopram', 'aripiprazole'] 1
+['vilazodone', 'sertraline', 'lamotrigine', 'fluoxetine', 'escitalopram'] 1
+
+
+States that contain vilazodone
+['vilazodone', 'escitalopram'] 3
+['vilazodone', 'sertraline', 'aripiprazole'] 2
+['vilazodone', 'quetiapine', 'escitalopram'] 1
+['citalopram', 'vilazodone', 'venlafaxine', 'fluvoxamine'] 1
+['wellbutrin', 'citalopram', 'vilazodone'] 1
+['citalopram', 'vilazodone', 'wellbutrin'] 1
+['vilazodone', 'duloxetine'] 4
+['vilazodone', 'wellbutrin', 'desvenlafaxine', 'escitalopram'] 1
+['citalopram', 'sertraline', 'wellbutrin', 'vilazodone', 'desvenlafaxine'] 1
+['wellbutrin', 'vilazodone', 'venlafaxine', 'escitalopram', 'aripiprazole'] 1
+['vilazodone', 'wellbutrin', 'desvenlafaxine', 'escitalopram', 'duloxetine'] 1
+['vilazodone', 'venlafaxine', 'mirtazapine'] 1
+['vilazodone', 'asa', 'venlafaxine', 'zolmitriptan'] 1
+['vilazodone'] 29
+['vilazodone', 'sertraline', 'fluoxetine'] 1
+['vilazodone', 'wellbutrin', 'trazodone', 'aripiprazole', 'clonazepam'] 1
+['propranolol', 'lamotrigine', 'aripiprazole', 'gabapentin', 'vilazodone', 'clonazepam'] 1
+['vilazodone', 'sertraline', 'fluoxetine', 'duloxetine'] 1
+['vilazodone', 'lisdexamfetamine', 'escitalopram', 'duloxetine'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'aripiprazole', 'citalopram', 'sertraline', 'fluoxetine', 'vilazodone', 'desvenlafaxine', 'venlafaxine'] 1
+['vilazodone', 'fluoxetine'] 6
+['wellbutrin', 'vilazodone', 'asa', 'clonazepam'] 1
+['vilazodone', 'wellbutrin', 'aripiprazole', 'clonazepam'] 1
+['vilazodone', 'lamotrigine', 'lorazepam', 'duloxetine'] 1
+['duloxetine', 'wellbutrin', 'aripiprazole', 'zolmitriptan', 'vilazodone', 'sertraline', 'fluoxetine', 'escitalopram', 'selegiline', 'venlafaxine', 'nortriptyline', 'desvenlafaxine'] 1
+['lamotrigine', 'wellbutrin', 'aripiprazole', 'vilazodone', 'alprazolam', 'citalopram'] 1
+['lamotrigine', 'eszopiclone', 'wellbutrin', 'quetiapine', 'lorazepam', 'citalopram', 'sertraline', 'fluoxetine', 'vilazodone', 'clonazepam'] 1
+['vilazodone', 'desvenlafaxine', 'fluoxetine'] 1
+['lamotrigine', 'wellbutrin', 'zolmitriptan', 'citalopram', 'sertraline', 'vilazodone', 'escitalopram', 'desvenlafaxine', 'clonazepam'] 1
+['vilazodone', 'wellbutrin', 'trazodone', 'prudoxin', 'nortriptyline'] 1
+['vilazodone', 'phenelzine'] 1
+['vilazodone', 'fluoxetine', 'escitalopram'] 1
+['vilazodone', 'clomipramine'] 1
+['wellbutrin', 'vilazodone'] 5
+['vilazodone', 'sertraline'] 5
+['vilazodone', 'quetiapine', 'olanzapine'] 1
+['vilazodone', 'quetiapine', 'trazodone', 'olanzapine', 'clonazepam'] 1
+['lamotrigine', 'duloxetine', 'wellbutrin', 'citalopram', 'sertraline', 'vilazodone', 'lurasidone', 'desvenlafaxine', 'venlafaxine', 'zostavax'] 1
+['vilazodone', 'escitalopram', 'lorazepam', 'clonazepam', 'aripiprazole'] 1
+['vilazodone', 'escitalopram', 'clomipramine'] 1
+['vilazodone', 'thyroid', 'fluoxetine', 'wound'] 1
+['alprazolam', 'vilazodone', 'fluoxetine', 'trazodone', 'duloxetine'] 1
+['vilazodone', 'wellbutrin', 'quetiapine', 'mirtazapine'] 1
+['duloxetine', 'wellbutrin', 'vilazodone', 'alprazolam', 'risperidone', 'lisdexamfetamine'] 1
+['vilazodone', 'aripiprazole'] 1
+['wellbutrin', 'vilazodone', 'sertraline', 'fluoxetine', 'citalopram', 'venlafaxine'] 1
+['wellbutrin', 'vilazodone', 'escitalopram', 'venlafaxine'] 1
+['vilazodone', 'wellbutrin', 'sertraline'] 1
+['vilazodone', 'citalopram'] 1
+['vilazodone', 'zolmitriptan'] 1
+['vilazodone', 'wellbutrin', 'fluoxetine'] 1
+['vilazodone', 'wellbutrin', 'duloxetine'] 1
+['vilazodone', 'wellbutrin'] 1
+['vilazodone', 'trazodone'] 1
+['zolmitriptan', 'vilazodone', 'thyroid', 'duloxetine'] 1
+['vilazodone', 'desvenlafaxine'] 2
+['vilazodone', 'quetiapine', 'lamotrigine', 'desvenlafaxine', 'wellbutrin'] 1
+['vilazodone', 'sertraline', 'venlafaxine', 'fluvoxamine'] 1
+['citalopram', 'vilazodone', 'escitalopram'] 1
+['vilazodone', 'lorazepam', 'duloxetine'] 1
+['wellbutrin', 'vilazodone', 'venlafaxine', 'armodafinil', 'buspirone'] 1
+['vilazodone', 'lisdexamfetamine', 'aripiprazole', 'clonazepam', 'duloxetine'] 1
+['paroxetine', 'vilazodone'] 1
+['vilazodone', 'pregabalin'] 1
+['vilazodone', 'fluoxetine', 'methylphenidate'] 1
+['vilazodone', 'clonazepam'] 1
+['vilazodone', 'lamotrigine'] 1
+['vilazodone', 'sertraline', 'duloxetine'] 1
+['vilazodone', 'aripiprazole', 'buspirone'] 1
+['vilazodone', 'wellbutrin', 'lamotrigine'] 1
+['vilazodone', 'alprazolam', 'fluoxetine', 'trazodone'] 1
+['nelfinavir', 'sumatriptan', 'tramadol', 'diclofenac', 'delavirdine', 'imatinib', 'carbamazepine', 'oxcarbazepine', 'phenelzine', 'selegiline', 'voriconazole', 'primidone', 'rifapentine', 'indinavir', 'phenytoin', 'indomethacin', 'linezolid', 'nevirapine', 'posaconazole', 'naprosyn', 'rasagiline', 'isocarboxazid', 'tranylcypromine', 'vilazodone', 'aspirin', 'fentanyl', 'ritonavir', 'efavirenz', 'celecoxib', 'mycobutin', 'meloxicam', 'ibuprofen', 'bosentan', 'fosamprenavir', 'buspirone', 'zolmitriptan', 'atazanavir', 'eskalith', 'itraconazole', 'hepatitis'] 1
+['wellbutrin', 'vilazodone', 'lisdexamfetamine', 'escitalopram', 'duloxetine'] 1
+['citalopram', 'vilazodone', 'wellbutrin', 'lorazepam'] 1
+['wellbutrin', 'vilazodone', 'alprazolam', 'escitalopram', 'clonazepam'] 1
+['vilazodone', 'sertraline', 'fluoxetine', 'wellbutrin'] 1
+['duloxetine', 'wellbutrin', 'vilazodone', 'trazodone', 'escitalopram', 'desvenlafaxine', 'zostavax'] 1
+['vilazodone', 'wellbutrin', 'escitalopram', 'aripiprazole'] 1
+['wellbutrin', 'sertraline', 'fluoxetine', 'vilazodone'] 1
+['vilazodone', 'sertraline', 'lamotrigine', 'fluoxetine', 'escitalopram'] 1
